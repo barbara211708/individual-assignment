@@ -14,7 +14,7 @@ body {
 /* Styles for custom classes in the document. (There are more, try to find them out!) */
 
 .resume-header {
-    background-color: #E9DEF7;
+    background-color: #93A8AC;
 }
 
 .resume-main {
@@ -22,7 +22,7 @@ body {
 }
 
 .resume-aside {
-	background-color: #E8F5FA;
+	background-color: #8D99A5;
 }
 
 /* Styles for lists in the document */
@@ -48,4 +48,8 @@ body {
 .contact-icon {
 	height: 1em;
 	flex-basis: 1.4em;
+}
+
+#grad {
+  background-image: linear-gradient(#E2B4BD, #9B6A6C);
 }
