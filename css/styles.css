@@ -8,9 +8,8 @@
 body {
 	font-family: Lato, "Open Sans", Roboto, "Segoe UI", "Helvetica Neue", Helvetica, Arial, sans-serif;
 	color: #202030;
-	background:#f8f8fc
+	background: linear-gradient(#9B6A6C, #E2B4BD),
 }
-
 /* Styles for custom classes in the document. (There are more, try to find them out!) */
 
 .resume-header {
