@@ -8,7 +8,7 @@
 body {
 	font-family:"Arsenal", sans-serif;
 	color: #202030;
-	background: linear-gradient(#9B6A6C, #E2B4BD),
+	background: linear-gradient(#9B6A6C, #E2B4BD);
 }
 /* Styles for custom classes in the document. (There are more, try to find them out!) */
 
@@ -35,7 +35,7 @@ body {
 }
 
 .biography-details li::before {
-	color: #EE7623;
+	color: #8D99A5;
 }
 
 .biography-details li, .skill-list li {
