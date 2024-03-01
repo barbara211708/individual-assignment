@@ -6,7 +6,7 @@
 /* Styles for the body */
 
 body {
-	font-family: Lato, "Open Sans", Roboto, "Segoe UI", "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-family:"Arsenal", sans-serif;
 	color: #202030;
 	background: linear-gradient(#9B6A6C, #E2B4BD),
 }
@@ -48,3 +48,28 @@ body {
 	height: 1em;
 	flex-basis: 1.4em;
 }
+
+.cont-darkblue p{
+	color: #FFFFFF;
+}
+
+.language-level { 
+	border-color:#202030 !important;
+}
+
+.language-progress { 
+	background-color: #FFFFFF !important;
+}
+
+.barbara-class { 
+	background-color: #DD9AC6 !important;
+}
+
+.barbara-font {
+  font-family: "Arsenal", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+}
+
+		
